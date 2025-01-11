@@ -1,5 +1,4 @@
 # Relationship between Sleep Patterns and BMI in NHANES Data: An Analysis of Obesity-Related Health Outcomes
-# Regression-Analysis
 
 This study examines the relationship between Body Mass Index (BMI) and sleep patterns
  specifically sleep duration and perceived sleep quality—using NHANES 2017-2018 data. A
